@@ -1,5 +1,6 @@
 MATLABInstaller.m
 LinuxInstaller.sh
+JavaInstaller.jar
 PythonInstaller.py
 MSDOSInstaller.com
 UbuntuInstaller.elf
@@ -8,3 +9,4 @@ WindowsInstaller.exe
 VBScriptInstaller.vbs
 JavaScriptInstaller.js
 MathematicaInstaller.nb
+
