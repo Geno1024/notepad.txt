@@ -1,0 +1,10 @@
+MATLABInstaller.m
+LinuxInstaller.sh
+PythonInstaller.py
+MSDOSInstaller.com
+UbuntuInstaller.elf
+WinRARInstaller.rar
+WindowsInstaller.exe
+VBScriptInstaller.vbs
+JavaScriptInstaller.js
+MathematicaInstaller.nb
